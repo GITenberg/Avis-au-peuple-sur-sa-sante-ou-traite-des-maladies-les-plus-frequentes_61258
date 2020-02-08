@@ -1,5 +1,8 @@
 _repo: Avis-au-peuple-sur-sa-sante-ou-traite-des-maladies-les-plus-frequentes_61258
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61258-h/images/cover.jpg
 creator:
   author:
     agent_name: Tissot, S. A. D. (Samuel Auguste David)
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
     - https://fr.wikipedia.org/wiki/Samuel_Auguste_Tissot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61258#Avis-au-peuple-sur-sa-sante-ou-traite-des-maladies-les-plus-frequentes
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Sciences et Techniques
