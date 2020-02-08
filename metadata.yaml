@@ -1,0 +1,37 @@
+_repo: Avis-au-peuple-sur-sa-sante-ou-traite-des-maladies-les-plus-frequentes_61258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tissot, S. A. D. (Samuel Auguste David)
+    aliases:
+    - Tissot, Auguste
+    - Tissot, Samuel Auguste André David
+    - Tissot, Samuel Auguste Andre David
+    - Tissot, Simon André
+    birthdate: 1728
+    deathdate: 1797
+    gutenberg_agent_id: '7413'
+    url: http://www.gutenberg.org/2009/agents/7413
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
+    - https://fr.wikipedia.org/wiki/Samuel_Auguste_Tissot
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Sciences et Techniques
+gutenberg_issued: '2020-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61258'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine, Popular -- Early works to 1800'
+- GITenberg
+title: 'Avis au peuple sur sa santé
+
+  ou traité des maladies les plus fréquentes'
+url: http://www.gutenberg.org/ebooks/61258
